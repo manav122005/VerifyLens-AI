@@ -61,9 +61,7 @@ VerifyLens-AI/
     └── secrets.toml.example```
 The real .streamlit/secrets.toml file is intentionally excluded from Git.
 
----
-
-**## 🚀 Run Locally**
+## 🚀 Run Locally
 1. Clone the repository
 git clone https://github.com/manav122005/VerifyLens-AI.git
 cd VerifyLens-AI
@@ -98,9 +96,7 @@ streamlit run app.py
 
 The application will open in your browser.
 
----
-
-**## ☁️ Streamlit Community Cloud**
+## ☁️ Streamlit Community Cloud
 
 The application can be deployed directly from the GitHub repository using Streamlit Community Cloud.
 
@@ -110,9 +106,7 @@ GEMINI_API_KEY = "your_gemini_api_key"
 GMAIL_ADDRESS = "your_email@gmail.com"
 GMAIL_APP_PASSWORD = "your_16_character_gmail_app_password"
 
----
-
-**## 🔐 Responsible AI**
+## 🔐 Responsible AI
 
 VerifyLens is designed as a decision-support tool, not an autonomous decision maker.
 
@@ -127,9 +121,7 @@ Does not make final safety, legal, financial, medical, or compliance decisions.
 
 Human judgment remains responsible for the final decision.
 
----
-
-**## 🎯 Example Use Cases**
+## 🎯 Example Use Cases
 
 VerifyLens can assist with preliminary visual review of:
 
@@ -142,9 +134,7 @@ VerifyLens can assist with preliminary visual review of:
 
 The system should be used as an initial evidence-review assistant rather than a replacement for qualified inspection.
 
----
-
-**## 👨‍💻 Project**
+## 👨‍💻 Project
 
 VerifyLens AI
 
