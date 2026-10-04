@@ -58,10 +58,10 @@ VerifyLens-AI/
 ├── .gitignore
 │
 └── .streamlit/
-    └── secrets.toml.example
+    └── secrets.toml.example```
 The real .streamlit/secrets.toml file is intentionally excluded from Git.
 
-🚀 Run Locally
+##🚀 Run Locally
 1. Clone the repository
 git clone https://github.com/manav122005/VerifyLens-AI.git
 cd VerifyLens-AI
