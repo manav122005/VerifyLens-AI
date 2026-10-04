@@ -58,7 +58,8 @@ VerifyLens-AI/
 ├── .gitignore
 │
 └── .streamlit/
-    └── secrets.toml.example```
+    └── secrets.toml.example
+```
 The real .streamlit/secrets.toml file is intentionally excluded from Git.
 
 ## 🚀 Run Locally
